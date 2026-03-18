@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rodavel-labs/.github/main/assets/logo.png" alt="Rodavel" width="80" />
+  <img src="https://github.com/rodavel-labs/.github/blob/main/assets/logo.png?raw=true" alt="Rodavel" width="80" />
 </p>
 
 # Rodavel
